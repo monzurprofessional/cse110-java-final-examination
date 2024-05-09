@@ -22,6 +22,7 @@ public class question2 {
                 new_Word+=ch;
             }
         }
-        System.out.println(new_Word);
+        System.out.println(new_Word);   //output : SxexoxDbpboq
     }
 }
+
