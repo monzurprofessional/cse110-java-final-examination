@@ -1,7 +1,7 @@
 ////find the question script at CSE110 Spring-24 Questions.pdf file of this repository
 public class question2 {
     public static void main(String[] args) {
-        String word = "BracU";
+        String word = "SaharaDesert";
         String new_Word = "";
         for (int i = 0; i < word.length(); i++) {
             char ch = word.charAt(i);
