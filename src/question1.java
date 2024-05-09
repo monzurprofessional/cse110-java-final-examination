@@ -1,3 +1,4 @@
+//find the question script at CSE110 Spring-24 Questions.pdf file of this repository
 import java.util.*;
 public class question1 {
     public static void main(String[] args) {
